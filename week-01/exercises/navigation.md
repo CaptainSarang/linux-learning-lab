@@ -2,13 +2,13 @@
 
 ## Exercise 1
 
-Starting location:/home/josh/projects/linux
-Goal: /home/alex/linux-lab/projects/backups
+Starting location:/home/josh/linux-lab/projects/linux
+Goal: /home/josh/linux-lab/projects/backups
 
 cd ../backups
 
 ## Exercise 2
-Starting location:/home/josh/projects/linux
-Goal: /home/alex/linux-lab/notes/linux.txt
+Starting location:/home/josh/linux-lab/projects/linux
+Goal: /home/josh/linux-lab/notes/linux.txt
 
 cd ../notes/linux.txt
