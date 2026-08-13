@@ -1,3 +1,11 @@
+touch file1.txt
+touch file2.txt
+touch file3.txt
+touch test{1..3}.txt
+touch batch1.txt batch2.txt batch3.txt
+touch index.html
+
+
 cp file1.txt file1_backup.txt
 cp file2.txt file2_backup.txt /home/josh/linux-lab/projects/backups
 cp file3.txt file3_backup.txt /home/josh/archive
